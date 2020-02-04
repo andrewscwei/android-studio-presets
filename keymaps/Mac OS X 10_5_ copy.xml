@@ -56,9 +56,6 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="CompileDirty" />
-  <action id="CompileProject">
-    <keyboard-shortcut first-keystroke="meta b" />
-  </action>
   <action id="CopyElement" />
   <action id="Debugger.RemoveArrayFilter">
     <keyboard-shortcut first-keystroke="delete" />
@@ -140,6 +137,10 @@
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="JumpToLastWindow" />
+  <action id="MakeModule">
+    <keyboard-shortcut first-keystroke="shift meta f9" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="MoveLineDown">
