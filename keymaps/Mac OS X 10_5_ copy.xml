@@ -8,6 +8,9 @@
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="shift meta y" />
   </action>
+  <action id="ActivatePreviewToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt 0" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
@@ -131,6 +134,10 @@
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="meta alt 0" />
   </action>
   <action id="HideAllWindows" />
   <action id="IntroduceConstant" />
