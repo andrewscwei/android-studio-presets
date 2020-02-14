@@ -62,6 +62,9 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="CompileDirty" />
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="CopyElement" />
   <action id="CopyReference" />
   <action id="Debugger.RemoveArrayFilter">
