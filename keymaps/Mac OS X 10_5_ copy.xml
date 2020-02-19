@@ -28,10 +28,13 @@
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Alias.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -102,6 +105,36 @@
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
+  <action id="EditorMoveToPageBottom">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorMoveToPageBottomWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorMoveToPageTop">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorMoveToPageTopWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorPageDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_down" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorPageUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_up" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
@@ -148,6 +181,7 @@
     <keyboard-shortcut first-keystroke="meta alt 0" />
   </action>
   <action id="HideAllWindows" />
+  <action id="IncrementWindowHeight" />
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
@@ -156,6 +190,8 @@
     <keyboard-shortcut first-keystroke="shift meta f9" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="MoveLineDown">
@@ -164,6 +200,8 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextDiff" />
   <action id="NextOccurence" />
   <action id="OptimizeImports">
@@ -184,6 +222,7 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta alt f" />
   </action>
+  <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RestoreDefaultLayout" />
   <action id="Resume">
@@ -201,7 +240,18 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="SafeDelete" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
   <action id="ShowBookmarks" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="ShowSearchHistory" />
+  <action id="SmartSelect" />
   <action id="SmartStepInto">
     <keyboard-shortcut first-keystroke="shift f8" />
   </action>
