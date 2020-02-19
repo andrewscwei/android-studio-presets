@@ -102,6 +102,9 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
