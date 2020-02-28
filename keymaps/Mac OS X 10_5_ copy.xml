@@ -89,11 +89,17 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -220,6 +226,9 @@
   </action>
   <action id="ParameterInfo" />
   <action id="PreviousOccurence" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
