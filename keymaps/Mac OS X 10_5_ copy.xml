@@ -2,6 +2,9 @@
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt 0" />
+  </action>
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
@@ -197,8 +200,7 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="shift escape" />
-    <keyboard-shortcut first-keystroke="meta alt 0" />
+    <keyboard-shortcut first-keystroke="meta escape" />
   </action>
   <action id="HideAllWindows" />
   <action id="IncrementWindowHeight" />
