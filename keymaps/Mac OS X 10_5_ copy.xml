@@ -70,6 +70,9 @@
   </action>
   <action id="CopyElement" />
   <action id="CopyReference" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="Debugger.RemoveArrayFilter">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -247,9 +250,6 @@
   <action id="RestoreDefaultLayout" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
-  </action>
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="RunDashboard.RemoveConfiguration">
     <keyboard-shortcut first-keystroke="delete" />
