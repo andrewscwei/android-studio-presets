@@ -54,15 +54,6 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="AndroidTemplateGroup" is_group="true" action_type="-1" position="24">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="File" />
-      <path value="File Open Actions" />
-      <path value="Open Project Actions" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="NewFromTemplate" is_group="true" action_type="-1" position="23">
       <path value="root" />
       <path value="Main menu" />
@@ -96,18 +87,6 @@
       <path value="File" />
       <path value="File Open Actions" />
       <path value="Open Project Actions" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NewFromTemplate" is_group="true" action_type="-1" position="20">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NewFromTemplate" is_group="true" action_type="-1" position="20">
-      <path value="root" />
-      <path value="Commander View Popup Menu" />
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -246,18 +225,6 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Android.CreateResourcesActionGroup" is_group="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Android.CreateResourcesActionGroup" is_group="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Commander View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="NewPropertyAction" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Main menu" />
@@ -303,14 +270,6 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RecentProjectListGroup" is_group="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="File" />
-      <path value="File Open Actions" />
-      <path value="Open Recent" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
@@ -323,45 +282,6 @@
       <path value="Commander View Popup Menu" />
       <path value="New" />
       <path value="FileTemplateSeparatorGroup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RecentProjectListGroup" is_group="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="File" />
-      <path value="File Open Actions" />
-      <path value="Open Recent" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="File" />
-      <path value="Settings Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Android.CreateResourcesActionGroup" is_action="true" action_type="1" position="5">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Android.CreateResourcesActionGroup" is_action="true" action_type="1" position="5">
-      <path value="root" />
-      <path value="Commander View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NewFromTemplate" is_action="true" action_type="1" position="20">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NewFromTemplate" is_action="true" action_type="1" position="20">
-      <path value="root" />
-      <path value="Commander View Popup Menu" />
-      <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
