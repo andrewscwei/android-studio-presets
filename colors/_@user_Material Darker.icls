@@ -4,7 +4,7 @@
     <property name="created">2020-01-22T15:57:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.3.0</property>
-    <property name="modified">2020-09-19T11:17:31</property>
+    <property name="modified">2020-09-19T11:22:33</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -28,7 +28,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
-    <option name="CARET_COLOR" value="ffcc00" />
+    <option name="CARET_COLOR" value="ff3645" />
     <option name="CARET_ROW_COLOR" value="181818" />
     <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
@@ -69,8 +69,8 @@
     <option name="QUESTION_HINT" value="212121" />
     <option name="RECENT_LOCATIONS_SELECTION" value="1a1a1a" />
     <option name="RIGHT_MARGIN_COLOR" value="424242" />
-    <option name="SELECTED_INDENT_GUIDE" value="ff9800" />
-    <option name="SELECTED_TEARLINE_COLOR" value="ff9800" />
+    <option name="SELECTED_INDENT_GUIDE" value="d2002a" />
+    <option name="SELECTED_TEARLINE_COLOR" value="d2002a" />
     <option name="SELECTION_BACKGROUND" value="353535" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="424242" />
@@ -82,10 +82,10 @@
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="212121" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="212121" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="ff9800c0" />
-    <option name="ScrollBar.Mac.thumbColor" value="ff9800c0" />
+    <option name="ScrollBar.Mac.thumbColor" value="" />
     <option name="ScrollBar.Mac.trackColor" value="212121" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ff9800c0" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
