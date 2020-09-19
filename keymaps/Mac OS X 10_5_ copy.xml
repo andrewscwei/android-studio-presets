@@ -67,7 +67,8 @@
     <keyboard-shortcut first-keystroke="shift meta alt left" />
   </action>
   <action id="CollapseBlock" />
-  <action id="CollapseRegion">
+  <action id="CollapseRegion" />
+  <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="CompileDirty" />
@@ -167,8 +168,39 @@
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift meta alt right" />
   </action>
-  <action id="ExpandRegion">
+  <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="shift meta alt 1" />
+  </action>
+  <action id="ExpandAllToLevel2">
+    <keyboard-shortcut first-keystroke="shift meta alt 2" />
+  </action>
+  <action id="ExpandAllToLevel3">
+    <keyboard-shortcut first-keystroke="shift meta alt 3" />
+  </action>
+  <action id="ExpandAllToLevel4">
+    <keyboard-shortcut first-keystroke="shift meta alt 4" />
+  </action>
+  <action id="ExpandAllToLevel5">
+    <keyboard-shortcut first-keystroke="shift meta alt 5" />
+  </action>
+  <action id="ExpandRegion" />
+  <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="ExpandToLevel1">
+    <keyboard-shortcut first-keystroke="meta alt 1" />
+  </action>
+  <action id="ExpandToLevel2">
+    <keyboard-shortcut first-keystroke="meta alt 2" />
+  </action>
+  <action id="ExpandToLevel3">
+    <keyboard-shortcut first-keystroke="meta alt 3" />
+  </action>
+  <action id="ExpandToLevel4">
+    <keyboard-shortcut first-keystroke="meta alt 4" />
+  </action>
+  <action id="ExpandToLevel5">
+    <keyboard-shortcut first-keystroke="meta alt 5" />
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
