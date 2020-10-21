@@ -60,21 +60,22 @@
     <keyboard-shortcut first-keystroke="alt f12" />
   </action>
   <action id="CleanGradleProject">
-    <keyboard-shortcut first-keystroke="shift meta k" />
+    <keyboard-shortcut first-keystroke="shift meta alt k" />
   </action>
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta alt left" />
   </action>
   <action id="CollapseBlock" />
-  <action id="CollapseRegion" />
-  <action id="CollapseRegionRecursively">
+  <action id="CollapseDocComments">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta slash" />
+  </action>
+  <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="CollapseRegionRecursively" />
   <action id="CompileDirty" />
-  <action id="ConsoleView.ClearAll">
-    <keyboard-shortcut first-keystroke="meta k" />
-  </action>
+  <action id="ConvertJavaToKotlin" />
   <action id="CopyElement" />
   <action id="CopyReference" />
   <action id="Debug">
@@ -169,39 +170,34 @@
     <keyboard-shortcut first-keystroke="shift meta alt right" />
   </action>
   <action id="ExpandAllToLevel1">
-    <keyboard-shortcut first-keystroke="shift meta alt 1" />
+    <keyboard-shortcut first-keystroke="shift meta k" second-keystroke="meta 1" />
   </action>
   <action id="ExpandAllToLevel2">
-    <keyboard-shortcut first-keystroke="shift meta alt 2" />
+    <keyboard-shortcut first-keystroke="shift meta k" second-keystroke="meta 2" />
   </action>
   <action id="ExpandAllToLevel3">
-    <keyboard-shortcut first-keystroke="shift meta alt 3" />
+    <keyboard-shortcut first-keystroke="shift meta k" second-keystroke="meta 3" />
   </action>
   <action id="ExpandAllToLevel4">
-    <keyboard-shortcut first-keystroke="shift meta alt 4" />
+    <keyboard-shortcut first-keystroke="shift meta k" second-keystroke="meta 4" />
   </action>
   <action id="ExpandAllToLevel5">
-    <keyboard-shortcut first-keystroke="shift meta alt 5" />
+    <keyboard-shortcut first-keystroke="shift meta k" second-keystroke="meta 5" />
   </action>
-  <action id="ExpandRegion" />
-  <action id="ExpandRegionRecursively">
+  <action id="ExpandDocComments">
+    <keyboard-shortcut first-keystroke="shift meta k" second-keystroke="meta slash" />
+  </action>
+  <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
-  <action id="ExpandToLevel1">
-    <keyboard-shortcut first-keystroke="meta alt 1" />
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="shift meta k" second-keystroke="meta close_bracket" />
   </action>
-  <action id="ExpandToLevel2">
-    <keyboard-shortcut first-keystroke="meta alt 2" />
-  </action>
-  <action id="ExpandToLevel3">
-    <keyboard-shortcut first-keystroke="meta alt 3" />
-  </action>
-  <action id="ExpandToLevel4">
-    <keyboard-shortcut first-keystroke="meta alt 4" />
-  </action>
-  <action id="ExpandToLevel5">
-    <keyboard-shortcut first-keystroke="meta alt 5" />
-  </action>
+  <action id="ExpandToLevel1" />
+  <action id="ExpandToLevel2" />
+  <action id="ExpandToLevel3" />
+  <action id="ExpandToLevel4" />
+  <action id="ExpandToLevel5" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
