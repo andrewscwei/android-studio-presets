@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Mu" parent="Mac OS X 10.5+">
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
@@ -71,6 +71,9 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="CollapseRegionRecursively" />
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="meta alt d" />
+  </action>
   <action id="CompileDirty" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="meta k" />
@@ -90,6 +93,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="DecrementWindowHeight" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="meta alt d" />
+  </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
@@ -124,6 +130,10 @@
   </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
@@ -198,6 +208,7 @@
   <action id="ExpandToLevel3" />
   <action id="ExpandToLevel4" />
   <action id="ExpandToLevel5" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
@@ -299,6 +310,7 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="SendEOF" />
   <action id="ShowBookmarks" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
