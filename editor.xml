@@ -15,6 +15,9 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value=".AppleSystemUIFontMonospaced" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -35,7 +38,6 @@
     <option name="TOOLTIPS_DELAY_MS" value="300" />
     <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
