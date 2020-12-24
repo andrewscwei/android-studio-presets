@@ -31,6 +31,16 @@
   </action>
   <action id="AddToFavoritesPopup" />
   <action id="Android.CleanRun" />
+  <action id="Android.Designer.ForceRefreshPreview">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Android.Designer.IssueNotificationAction" />
+  <action id="Android.Designer.NextDevice" />
+  <action id="Android.Designer.PreviousDevice" />
+  <action id="Android.Designer.SwitchDesignMode">
+    <keyboard-shortcut first-keystroke="ctrl meta 3" />
+  </action>
+  <action id="Android.Designer.ToggleDeviceOrientation" />
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
