@@ -3,6 +3,7 @@
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
+    <option name="EDITOR_TAB_LIMIT" value="6" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
