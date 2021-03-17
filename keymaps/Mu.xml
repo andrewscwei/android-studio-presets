@@ -2,6 +2,9 @@
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="ActivateAndroidProfilerToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
     <keyboard-shortcut first-keystroke="shift meta y" />
@@ -30,6 +33,9 @@
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="Android Profiler">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="Android.CleanRun" />
   <action id="Android.Designer.ForceRefreshPreview">
     <keyboard-shortcut first-keystroke="meta r" />
