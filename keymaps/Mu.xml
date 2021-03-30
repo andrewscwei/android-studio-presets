@@ -266,10 +266,6 @@
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="JumpToLastWindow" />
-  <action id="MakeModule">
-    <keyboard-shortcut first-keystroke="shift meta f9" />
-    <keyboard-shortcut first-keystroke="meta b" />
-  </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveElementLeft" />
