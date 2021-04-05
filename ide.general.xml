@@ -12,5 +12,7 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="undo.globalUndoLimit" value="100" />
+    <entry key="undo.documentUndoLimit" value="1000" />
   </component>
 </application>
