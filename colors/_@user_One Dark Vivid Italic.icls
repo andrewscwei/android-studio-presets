@@ -3,7 +3,7 @@
     <property name="created">2021-02-28T22:57:39</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.2.0</property>
-    <property name="modified">2021-03-02T11:41:27</property>
+    <property name="modified">2021-04-05T23:00:09</property>
     <property name="originalScheme">One Dark Vivid Italic</property>
   </metaInfo>
   <colors>
@@ -35,7 +35,7 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="61afef" />
     <option name="HTML_TAG_TREE_LEVEL5" value="d55fde" />
     <option name="INDENT_GUIDE" value="3b4048" />
-    <option name="INFORMATION_HINT" value="3d424b" />
+    <option name="INFORMATION_HINT" value="e0e0e" />
     <option name="LINE_NUMBERS_COLOR" value="495162" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984" />
     <option name="METHOD_SEPARATORS_COLOR" value="3b4048" />
