@@ -52,7 +52,6 @@ lib/
 *.jar
 *.rar
 *.tar
-*.zip
 
 # Logs
 logs
